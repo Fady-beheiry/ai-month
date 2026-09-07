@@ -1,1 +1,1 @@
-# ai-month
+ AI agents & automation
